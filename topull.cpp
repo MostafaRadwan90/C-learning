@@ -1,4 +1,4 @@
-#include <csdio>
+#include <cstdio>
 #include <iostream>
 
 int main ()
